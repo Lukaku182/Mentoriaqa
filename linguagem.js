@@ -4,4 +4,4 @@ return 'au au'
 else if (animal == 'gato')
 return 'miau'
 else
-return 'Informe gato ou cachorro'
+return 'Informe gato ou cachorro'}
